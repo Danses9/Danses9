@@ -3,7 +3,7 @@
 # **Saudação, terráqueo!** 👽
 ## `Me chamo Danna e venho em missão de paz` 🖖
 
-### Tenho 25 anos, possuo DNA um tanto oriental, sensibilidade artística, as vezes sou a louca dos astros e sempre que posso, apreciadora da culinária japonesa 🐉
+### Tenho 30 anos, possuo DNA um tanto oriental, sensibilidade artística, as vezes sou a louca dos astros e sempre que posso, apreciadora da culinária japonesa 🐉
 
 ### **No momento meu desafio é desbravar esse mundão `tech` do qual sigo ansiosa para me encaixar em algum lugar** 🤩
 
