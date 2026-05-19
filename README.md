@@ -10,7 +10,7 @@ Profissional de tecnologia em transição para a área de dados, atualmente curs
 Experiência com análise exploratória de dados, geração de insights operacionais, séries temporais e visualização analítica utilizando Python, Pandas e Spark.
 
 ## Tech Stack
-Python • Pandas • Spark • SQL • Matplotlib • Git • GitHub
+Python • Pandas • Spark • SQL • R • Matplotlib • Git • GitHub 
 
 ## Projetos em destaque
 
