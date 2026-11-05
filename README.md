@@ -25,7 +25,7 @@
 
 ---
 
-## Sobre mim | Uma nova esperança
+## Sobre mim | Uma nova esperança  ✨
 
 Sou **Analista de Dados na TransUnion Brasil**, onde estou há mais de 4 anos. Iniciei minha trajetória como estagiária e hoje desenvolvo produtos analíticos utilizados em modelos de **crédito, cobrança e fraude**.
 
@@ -37,7 +37,7 @@ Atualmente, curso **Pós-Tech em Data Analytics na FIAP** e sou graduada em **An
 
 ---
 
-## A Força dos Dados | Minhas habilidades
+## A Força dos Dados | Minhas habilidades  ⚔️
 
 Minha atuação envolve diferentes etapas do processo analítico, desde a exploração e validação até a construção de indicadores.
 
@@ -50,7 +50,8 @@ Minha atuação envolve diferentes etapas do processo analítico, desde a explor
 
 ---
 
-## Arsenal da Galáxia | Tecnologias
+## Arsenal da Galáxia | Tecnologias  🛸
+
 
 <p align="center">
   <img alt="SQL" src="https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=databricks&logoColor=C1121F" />
@@ -69,7 +70,8 @@ Minha atuação envolve diferentes etapas do processo analítico, desde a explor
 
 ---
 
-## A Saga | Minha trajetória
+## A Saga | Minha trajetória  👩🏻‍💻
+
 
 Cada experiência representa um capítulo da minha jornada profissional.
 
@@ -83,7 +85,7 @@ Cada experiência representa um capítulo da minha jornada profissional.
 
 ---
 
-## Missões pela Galáxia | Projetos
+## Missões pela Galáxia | Projetos  🧳
 
 Projetos acadêmicos desenvolvidos durante minha jornada em Data Analytics.
 
@@ -102,7 +104,7 @@ Projetos acadêmicos desenvolvidos durante minha jornada em Data Analytics.
 
 ---
 
-## Academia Jedi | Formação
+## Academia Jedi | Formação  📚
 
 **Formação acadêmica**
 
