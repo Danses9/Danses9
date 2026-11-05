@@ -118,7 +118,7 @@ Projetos acadêmicos desenvolvidos durante minha jornada em Data Analytics.
 - **Mercado financeiro:** Mercado Financeiro de A a Z.
 
 ---
-<p align="center"><i>Que a Força — e os dados confiáveis — estejam com você.</i></p>
+<p align="center"><i>Que a Força — e os dados confiáveis — esteja com você.</i></p>
 
 
 <p align="center">
